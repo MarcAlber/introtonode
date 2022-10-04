@@ -1,0 +1,19 @@
+{
+  "name": "nodefiles",
+  "version": "16.7.1",
+  "description": "Simple web app",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcAlber/introtonode.git"
+  },
+  "author": "Marc Albert",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MarcAlber/introtonode/issues"
+  },
+  "homepage": "https://github.com/MarcAlber/introtonode#readme"
+}
